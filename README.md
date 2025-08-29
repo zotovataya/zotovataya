@@ -10,6 +10,8 @@ I'm a passionate developer specializing in web development, data analysis, and a
 
 ![Taïsia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zotovataya&show_icons=true&theme=radical)
 
+[My CTF-team "Иванычи"](https://ctftime.org/team/402961)
+
 ##  Connect with Me
 - [Telegram](https://t.me/shreksie )
 
